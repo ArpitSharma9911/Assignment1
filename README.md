@@ -12,7 +12,7 @@ Write a Python program that:
    - Multiplication  
    - Division
 
-**#Code**
+### Code: 
 a= float (input ("Enter first number: "))
 b= float (input ("Enter second number: "))
 c= a+b
@@ -43,7 +43,7 @@ Write a Python program that:
 2. Concatenates the first name and last name into a full name.  
 3. Prints a personalized greeting message using the full name.
 
-**#Code**
+### Code: 
 firstname=input("Enter your first name: ")
 lastname=input("Enter your last name: ")
 fullname=firstname+" "+lastname
