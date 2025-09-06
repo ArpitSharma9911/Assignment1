@@ -1,4 +1,4 @@
-##Task 2:
+##Task 2:Personalized Greeting
 
 firstname=input("Enter your first name: ")
 lastname=input("Enter your last name: ")
